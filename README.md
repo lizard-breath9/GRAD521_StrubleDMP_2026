@@ -1,6 +1,6 @@
 # GRAD521_StrubleDMP_2026
 
-##Description of project: 
+## Description of project: 
 1. This project focuses on using inoculated soil seed coatings to improve plant establishment and ameliorate extreme weather stress for two commonly used restoration species, Sandberg bluegrass (Poa secunda) and bottlebrush squirreltail (Elymus elymoides). Project sites will be at six locations across five states (Oregon, Washington, Idaho, Wyoming, and Nevada). Our overall objective is to improve understanding of soil microbial variation, the role of soil microbes in plant establishment and growth, and the potential usage of inoculated soil seed coatings. Soil microbes can provide unique benefits to the seedlings they associate with, and our goal is to explore these relationships.
 
 Our research questions are as follows: 
